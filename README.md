@@ -50,7 +50,7 @@ The ontologies for accessible travelling
 
 ## Ontology for Route and Road
 
--[Road Traffic Management](http://www.sensormeasurement.appspot.com/ont/transport/traffic) An ontology that describes the management of the traffic in a straight road with two lanes, both in the same direction.
+- [Road Traffic Management](http://www.sensormeasurement.appspot.com/ont/transport/traffic) An ontology that describes the management of the traffic in a straight road with two lanes, both in the same direction.
     1. namespace: http://www.sensormeasurement.appspot.com/ont/transport/traffic#
     2. [homepage](http://here.com/traffic)
     
