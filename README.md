@@ -13,7 +13,7 @@ All the ontologies found on [Linked Open Vocabularies](http://lov.okfn.org/datas
     1. Accessibility Property: passim:isAccessibilityForDisabledPerson,
     2. passim:isWebSiteAccessibilityForDisabledPerson
     
--[Transportation Ontology](http://www.cs.utexas.edu/users/pclark/kr-web/other/passenger-vehicle/transportation.km) by Peter Clark, 1998
+- [Transportation Ontology](http://www.cs.utexas.edu/users/pclark/kr-web/other/passenger-vehicle/transportation.km) by Peter Clark, 1998
 
 ## Wayfinding Ontology Papers
 
