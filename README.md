@@ -82,7 +82,7 @@ The ontologies for accessible travelling
     
 - [OWL representation of ISO 19107 (Geographic Information)](http://def.seegrid.csiro.au/isotc211/iso19107/2003/geometry) An OWL representation of part of the model for geometry and space from ISO 19107:2003 Geographic Information - Spatial Schema
 
-## Methdologies for Ontology Enginnering
+## Methodologies for Ontology Enginnering
 - [Overview Of Methodologies For Building Ontologies
 ](http://www.cs.upc.edu/~bejar/aia/aia-web/4-fernandez.pdf) Fern¨¢ndez L¨®pez, M Proceedings of the IJCAI-99 workshop on Ontologies and Problem-Solving Methods (KRR5)
 Stockholm, Sweden, August 2, 1999
