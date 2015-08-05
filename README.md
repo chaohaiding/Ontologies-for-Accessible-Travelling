@@ -10,7 +10,8 @@ All the ontologies found on [Linked Open Vocabularies](http://lov.okfn.org/datas
 - [Linked GTFS](https://github.com/OpenTransport/linked-gtfs): The Linked General Transit Feed Specification (Linked GTFS) is a mapping of the GTFS in CSV reference towards RDF. It stays as close as possible to the CSV reference, including small additions to enhance usability.
 
 - [PASSIM ontology](http://data.lirmm.fr/ontologies/passim) This ontology is the description of the operation of a transport information service.
-    1. Accessibility Property: passim:isAccessibilityForDisabledPerson,  passim:isWebSiteAccessibilityForDisabledPerson
+    1. Accessibility Property: passim:isAccessibilityForDisabledPerson,
+    2. passim:isWebSiteAccessibilityForDisabledPerson
     
 -[Transportation Ontology](http://www.cs.utexas.edu/users/pclark/kr-web/other/passenger-vehicle/transportation.km) by Peter Clark, 1998
 
@@ -28,5 +29,5 @@ All the ontologies found on [Linked Open Vocabularies](http://lov.okfn.org/datas
 
 - [ifc Ontology](http://linkedbuildingdata.net/resources/IFC4_ADD1.owl) proposed by [W3C Community Group on Linked Building Data](https://www.w3.org/community/lbd/)
 
--[Ontology Modeling for Intelligent Domotic Environments](http://elite.polito.it/ontologies/dogont.owl): [homepage](http://www.cad.polito.it/pap/exact/iswc08.html) The DogOnt ontology supports device/network independent description of houses, including both controllable and architectural elements.
+- [Ontology Modeling for Intelligent Domotic Environments](http://elite.polito.it/ontologies/dogont.owl): [homepage](http://www.cad.polito.it/pap/exact/iswc08.html) The DogOnt ontology supports device/network independent description of houses, including both controllable and architectural elements.
 
