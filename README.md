@@ -6,17 +6,16 @@ The ontologies for accessible travelling
 - [ASK-IT](http://askit.iti.gr/ontology/) 
     1. [related paper](http://www.ask-it.org/ASKIT_dels/ASK-IT%20D1.7.1.pdf)
     2. [homepage](http://www.ask-it.org/index.php%3Fpage=links.html)
-- [AEGIS](http://160.40.50.89/AEGIS_Ontology/)
-    1. [presentation](http://www.etna-project.eu/ftp/ETNA_Workshop3_Votis.pdf) 2011
+- [AEGIS](http://160.40.50.89/AEGIS_Ontology/) 
+    1. [presentation](http://www.etna-project.eu/ftp/ETNA_Workshop3_Votis.pdf) @2011
     2. [homepage](http://www.aegis-project.eu/index.php)
-    
 - OASIS
-    1. [related paper](http://www.oasis-project.eu/docs/OFFICIAL_DELIVERABLES/SP1/D1.2.1/OASIS-D121.pdf)
+    1. [related paper](http://www.oasis-project.eu/docs/OFFICIAL_DELIVERABLES/SP1/D1.2.1/OASIS-D121.pdf) 
     1. [homepage](http://www.oasis-project.eu/index.php/lang-en/component/content/19?task=view)
     
 - [Accessibility Ontology](https://github.com/ox-it/accessibility-ontology/blob/master/accessibility-ontology.ttl), by IT Services, University of Oxford
 
-- [Place Access Ontology] (http://waisvm-cd8e10.ecs.soton.ac.uk/2014/2/ontology/placeaccess.owl) by Chaohai Ding, University of Southampton
+- [Place Access Ontology] (http://waisvm-cd8e10.ecs.soton.ac.uk/2014/2/ontology/placeaccess.owl), by Chaohai Ding, University of Southampton 
     1. [Demo Website](http://waisvm-cd8e10.ecs.soton.ac.uk/crowdaccess/) for crowdsourcing Linked Open Accessibilit Data 
     2. Paper: [Applying the linked data principles to open accessibility data for accessible way-finding](http://www.w3.org/WAI/RD/2014/way-finding/paper1/)
 
@@ -26,7 +25,7 @@ The ontologies for accessible travelling
 
 - [Linked GTFS](https://github.com/OpenTransport/linked-gtfs): The Linked General Transit Feed Specification (Linked GTFS) is a mapping of the GTFS in CSV reference towards RDF. It stays as close as possible to the CSV reference, including small additions to enhance usability.
 
-- [PASSIM ontology](http://data.lirmm.fr/ontologies/passim) This ontology is the description of the operation of a transport information service.
+- [PASSIM ontology](http://data.lirmm.fr/ontologies/passim) This ontology is the description of the operation of a transport information service. 
     1. Accessibility Property: passim:isAccessibilityForDisabledPerson,
     2. passim:isWebSiteAccessibilityForDisabledPerson
     
