@@ -16,7 +16,7 @@ The ontologies for accessible travelling
 - [Accessibility Ontology](https://github.com/ox-it/accessibility-ontology/blob/master/accessibility-ontology.ttl), by IT Services, University of Oxford
 
 - [Place Access Ontology] (http://waisvm-cd8e10.ecs.soton.ac.uk/2014/2/ontology/placeaccess.owl), by Chaohai Ding, University of Southampton 
-    1. [Demo Website](http://waisvm-cd8e10.ecs.soton.ac.uk/crowdaccess/) for crowdsourcing Linked Open Accessibilit Data 
+    1. [Demo Website](http://waisvm-cd8e10.ecs.soton.ac.uk/crowdaccess/) for crowdsourcing the Linked Open Accessibility Data 
     2. Paper: [Applying the linked data principles to open accessibility data for accessible way-finding](http://www.w3.org/WAI/RD/2014/way-finding/paper1/)
 
 ## Ontology for Transportation 
